@@ -6,10 +6,17 @@ python + OpenCL module of the original standford **GloVe** word embeddings (http
 
 I already wrote pyglove (https://github.com/otterrrr/pyglove) but this pure-python version is too slow to test even small-sized corpus. In this **pyclglove**, OpenCL version of pyglove, time to build Glove model is reduced much. In other words, you can take advantage of any devices supporting OpenCL for speed-up
 
+### Installation
+
+1. Download python package file: [pyclglove-0.1.0.tar.gz](https://github.com/otterrrr/pyclglove/blob/master/dist/pyclglove-0.1.0.tar.gz)
+1. pip install pyclglove-0.1.0.tar.gz
+   1. You might have to install pyopencl in advance when there's a dependency conflict
+
 ### Example
 
-```python
+##### test_simple.py (enclosed)
 
+```python
 import pyclglove
 
 sentences = [
