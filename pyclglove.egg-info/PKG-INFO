@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: pyclglove
+Version: 0.1.0
+Summary: python and OpenCL implementation of GloVe word embeddings
+Home-page: https://github.com/otterrrr/pyclglove
+Author: Taesik Yoon
+Author-email: taesik.yoon.02@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT license
+Classifier: Topic :: Scientific/Engineering :: Natural Language Processing
+Classifier: Operating System :: OS Independent

@@ -1,0 +1,8 @@
+README.md
+pyclglove.py
+setup.py
+pyclglove.egg-info/PKG-INFO
+pyclglove.egg-info/SOURCES.txt
+pyclglove.egg-info/dependency_links.txt
+pyclglove.egg-info/requires.txt
+pyclglove.egg-info/top_level.txt
